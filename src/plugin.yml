@@ -1,0 +1,10 @@
+api: ["1.16"]
+name: MyFirstPlugin
+main: hai.tech.plugins.Main
+version: 1.0.0
+description: My first plugin
+
+commands:
+  shalom:
+    description: sends shalom message
+    usage: /shalom
